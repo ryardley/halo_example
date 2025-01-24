@@ -1,0 +1,11 @@
+[package]
+name = "halo2_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+group = "0.13.0"
+halo2 = "0.0.0"
+halo2_proofs = "0.3.0"
+hex = "0.4.3"
+rand = "0.8.5"
