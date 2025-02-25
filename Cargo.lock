@@ -147,7 +147,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "halo2_test"
+name = "halo_example"
 version = "0.1.0"
 dependencies = [
  "group",
